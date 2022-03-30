@@ -14,5 +14,5 @@ Padrão de arquitetura MVC com PHP, API com Slim Framework, SASS, Aplicacões Mo
   <a href="https://www.linkedin.com/in/rafael-de-carvalho-nascimento-27b976201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-   ![Snake animation](https://github.com/RafaelCarvalhoNascimento/RafaelCarvalhoNascimento/blob/output/github-contribution-grid-snake.svg)
+  
  
