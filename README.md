@@ -1,8 +1,8 @@
 - 👋 Olá eu sou Rafael 
 - 👀 Um profissional em Transição de Carreira
 - 🌱 Desenvolvedor Web Full Stack com estudos em HTML5, CSS3, Bootstrap e Design Responsivo
-JavaScript, ECMAScript 2015 e Orientação a Objetos, Servidor Apache, PHP 7 e MySQL, Ajax, PHP com PDO e MySQL, jQuery,
-Padrão de arquitetura MVC com PHP, API com Slim Framework, SASS, Aplicacões Mobile com Ionic, Wordpress.
+JavaScript, PHP 7, Node.js, SQL, sqlite3, Ajax, PHP com PDO e MySQL, jQuery, Jest(tests), migrations with Knex.  
+Padrão de arquitetura MVC com PHP,Wordpress.
 
 <div align="center">
   <a href="https://github.com/RafaelCarvalhoNascimento">
